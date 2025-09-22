@@ -1,4 +1,4 @@
-**Estudante do curso tecnico de informática da escola EEEP Luiza de Teodoro Vieira**
+**Front end é meu ovo**
 
 ![micaelrauan GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelrauan&show_icons=true&theme=midnight-purple)
 
