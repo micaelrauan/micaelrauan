@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
 ![Next.js](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js)
 
-**Ferramentas**
+**Development Tools**
 <br>
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
@@ -45,7 +45,7 @@
 
 ---
 
-### 🔗 Contato
+### 🔗 Contacts
 - linkedin: https://www.linkedin.com/in/micaelrauan/
 - Email: micaelrauandev@gmail.com 
 
