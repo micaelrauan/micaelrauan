@@ -1,85 +1,51 @@
-<!-- BANNER ANIMADO DE ESTRELAS -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" />
-</p>
+### Micael Rauan - Web software enginner
 
-# 🌌 Olá, eu sou **Micael Rauan**  
-### *Full Stack Developer | Criador de experiências digitais | UI Designer*
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Criando+soluções+com+propósito.;Transformando+ideias+em+experiências.;Design+e+tecnologia+lado+a+lado.;NodeJs+TypeScript+React+NextJs+Mysql" />
-</p>
+### Full-stack
 
----
+**Backend**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-333?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-333?style=for-the-badge&logo=prisma)
 
-## 🙍🏼 Sobre mim  
+**Frontend**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js)
 
-Sou um desenvolvedor **Full Stack** que ama unir **design + tecnologia** para criar produtos digitais modernos, intuitivos e com personalidade.  
-Acredito que cada projeto é mais do que código — é uma **experiência**.
+**Ferramentas**
+<br>
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-333?style=for-the-badge&logo=visual-studio-code)
+![Insomnia](https://img.shields.io/badge/Insomnia-333?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-333?style=for-the-badge&logo=adobe-photoshop)
 
-linkedin: https://www.linkedin.com/in/micaelrauan/
+</td>
 
----
+<td width="45%" valign="top">
 
-## 🪐 Minhas Tecnologias  
+### ⚡ Status
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=micaelrauan&theme=dark&hide_border=true" />
 
-<p align="center">
-  <i>As ferramentas que uso para construir meus projetos:</i>
-</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhb3Q5cGxpc3JyejZjZnU0ejR3bnJkeDM1d3lobDhucWF1ZnBwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="400" />
 
----
-
-<!-- LAYOUT HORIZONTAL ORGANIZADO DAS TECNOLOGIAS -->
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <!-- BACKEND -->
-  <div>
-    <h3>🚀 <strong>Back-end & Databases</strong></h3>
-    <p align="center">
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-    </p>
-  </div>
-
-  <!-- FRONTEND -->
-  <div>
-    <h3>🎨 <strong>Front-end & UI</strong></h3>
-    <p align="center">
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    </p>
-  </div>
-
-  <!-- FERRAMENTAS -->
-  <div>
-    <h3>🧰 <strong>Ferramentas</strong></h3>
-    <p align="center">
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-      <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    </p>
-  </div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌠 Estatísticas do GitHub  
+### 🔗 Contato
+- linkedin: https://www.linkedin.com/in/micaelrauan/
+- Email: micaelrauandev@gmail.com 
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=micaelrauan&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-## 📬 Vamos conversar!
-Se quiser trocar uma ideia, criar algo juntos ou me chamar pra algum projeto, estou por aqui.
-
-🔗 **Portfólio:** https://portfolio-micael-rauan.vercel.app  
-📧 **Email:** micaelrauandev@gmail.com 
