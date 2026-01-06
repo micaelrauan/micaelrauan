@@ -35,8 +35,7 @@
 
 <td width="45%" valign="top">
 
-### ⚡ Status
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=micaelrauan&theme=dark&hide_border=true" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micaelrauan&theme=algolia)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNhb3Q5cGxpc3JyejZjZnU0ejR3bnJkeDM1d3lobDhucWF1ZnBwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif" width="400" />
 
